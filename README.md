@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, sou a Ingrid Ferreira! 👋
+# Hey, sou a Ingrid Ferreira! 😊
 
 *Curiosa por natureza • Apaixonada por aprender • Futura especialista em Segurança Tecnológica*
 
@@ -8,15 +8,15 @@
 
 </div>
 
-## 📌 Sobre Mim
+## Sobre Mim
 
 Sou movida pela curiosidade e pelo desejo constante de aprender coisas novas. Atualmente, estou cursando **Desenvolvimento de Sistemas** e direcionando meus estudos para construir uma carreira sólida em **Segurança em Tecnologia**. 
 
-Gosto de entender a fundo como as tecnologias funcionam para criar soluções inteligentes, eficientes e verdadeiramente seguras.
+Gosto de entender a fundo como as tecnologias funcionam por trás dos panos para criar soluções inteligentes, eficientes e verdadeiramente seguras.
 
 ---
 
-## 🛠️ Conhecimentos Tecnológicos
+## 💡 Conhecimentos Tecnológicos
 
 <div align="center">
 
@@ -29,18 +29,18 @@ Gosto de entender a fundo como as tecnologias funcionam para criar soluções in
 
 ---
 
-## 🎯 Meus Objetivos
+## Meus Objetivos
 
-* 🎓 Concluir minha formação em **Desenvolvimento de Sistemas**.
-* 🛡️ Aprofundar conhecimentos em **Segurança da Informação / Cibersegurança**.
-* 🛠️ Construir projetos práticos unindo desenvolvimento com boas práticas de segurança.
+*  Concluir minha formação em **Desenvolvimento de Sistemas**.
+*  Aprofundar conhecimentos em **Segurança da Informação / Cibersegurança**.
+*  Construir projetos práticos unindo desenvolvimento com boas práticas de segurança.
 
 ---
 
-## 📫 Entre em Contato
+## ✉️ Entre em Contato
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cardoso.ingrid030@gmail.com)
 
 </div>
