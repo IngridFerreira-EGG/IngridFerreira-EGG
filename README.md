@@ -1,8 +1,23 @@
-## Hi there 👋
+# Hey, sou a Ingrid Ferreira!
 
-- 🔭 I’m currently working on Technology
-- 🌱 I’m currently learning System
-- 👯 I’m looking to collaborate on Python
-- 🤔 I’m looking for help with Java
-- 📫 How to reach me: cardoso.ingrid030@gmail.com
+Curiosa por natureza e apaixonada por aprender coisas novas a todo momento. Atualmente, estou cursando **Desenvolvimento de Sistemas** e focando meus estudos para alcançar o objetivo de trabalhar na área de **Segurança em Tecnologia**. 
 
+Gosto de entender o funcionamento das tecnologias por trás da tela e aplicar esse conhecimento para criar soluções eficientes e seguras.
+
+Possuo conhecimentos em
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+Meus Objetivos
+- 🎓 Concluir minha formação em **Desenvolvimento de Sistemas**.
+- 🔒 Aprofundar conhecimentos em **Segurança da Informação / Cibersegurança**.
+- 🛠️ Construir projetos práticos unindo desenvolvimento com boas práticas de segurança.
+
+Entre em contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
