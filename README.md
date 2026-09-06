@@ -1,23 +1,46 @@
-# Hey, sou a Ingrid Ferreira!
+<div align="center">
 
-Curiosa por natureza e apaixonada por aprender coisas novas a todo momento. Atualmente, estou cursando **Desenvolvimento de Sistemas** e focando meus estudos para alcançar o objetivo de trabalhar na área de **Segurança em Tecnologia**. 
+# Hey, sou a Ingrid Ferreira! 👋
 
-Gosto de entender o funcionamento das tecnologias por trás da tela e aplicar esse conhecimento para criar soluções eficientes e seguras.
+*Curiosa por natureza • Apaixonada por aprender • Futura especialista em Segurança Tecnológica*
 
-Possuo conhecimentos em
+---
+
+</div>
+
+## 📌 Sobre Mim
+
+Sou movida pela curiosidade e pelo desejo constante de aprender coisas novas. Atualmente, estou cursando **Desenvolvimento de Sistemas** e direcionando meus estudos para construir uma carreira sólida em **Segurança em Tecnologia**. 
+
+Gosto de entender a fundo como as tecnologias funcionam para criar soluções inteligentes, eficientes e verdadeiramente seguras.
+
+---
+
+## 🛠️ Conhecimentos Tecnológicos
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Meus Objetivos
-- 🎓 Concluir minha formação em **Desenvolvimento de Sistemas**.
-- 🔒 Aprofundar conhecimentos em **Segurança da Informação / Cibersegurança**.
-- 🛠️ Construir projetos práticos unindo desenvolvimento com boas práticas de segurança.
+</div>
 
-Entre em contato
+---
+
+## 🎯 Meus Objetivos
+
+* 🎓 Concluir minha formação em **Desenvolvimento de Sistemas**.
+* 🛡️ Aprofundar conhecimentos em **Segurança da Informação / Cibersegurança**.
+* 🛠️ Construir projetos práticos unindo desenvolvimento com boas práticas de segurança.
+
+---
+
+## 📫 Entre em Contato
+
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
+
+</div>
